@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hassanshaahid
 - 👀 I’m interested in Programing  ...
 - 🌱 I’m currently learning Paython...
-- 💞️ I’m looking to collaborate on coded
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me hassennuur541@gmail.com
 
 <!---
